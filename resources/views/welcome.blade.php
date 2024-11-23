@@ -13,7 +13,7 @@
         <div class="container mx-auto px-4 py-4 flex justify-between items-center">
             <div class="flex items-center">
                     <img src="logo.jpg" alt="Logo" class="h-8 w-8 object-contain" />
-                <span class="ml-2 text-xl font-bold text-gray-800">Ospital ni Andrei</span>
+                <span class="ml-2 text-xl font-bold text-gray-800">Demo testing</span>
             </div>
             <nav class="hidden md:flex space-x-4 flex-wrap">
                 <a href="#home" class="text-gray-800 hover:text-primary">Home</a>
