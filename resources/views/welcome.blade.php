@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ospital ng Parañaque</title>
+    <title>Paranaque Hospital</title>
     @vite('resources/css/app.css') <!-- Link to your Tailwind CSS file -->
     <script src="https://cdn.tailwindcss.com"></script> <!-- Optionally include Tailwind CDN -->
 </head>
